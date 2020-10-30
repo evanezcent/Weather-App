@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+An app to learn about **BLOC** concept. This is my [reference](https://medium.com/zipper-studios/flutter-fetch-data-from-api-and-architect-your-app-using-bloc-pattern-b826f80d6996)
 
 ## Getting Started
 
