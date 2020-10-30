@@ -13,7 +13,7 @@ class BuildCoordinate extends StatelessWidget {
         Container(
           margin: const EdgeInsets.only(bottom: 15.0),
           child: Text(
-            "Coord",
+            "Coordinate",
             style: TextStyle(
                 color: Color.fromRGBO(0, 123, 174, 100), fontSize: 20.0),
           ),

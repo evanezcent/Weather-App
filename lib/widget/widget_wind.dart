@@ -16,7 +16,7 @@ Column BuildWind(Wind wind) {
         Row(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: <Widget>[
-            Text("Speed: " + wind.speed.toString()),
+            Text("Speed: " + wind.speed.toString() +" m/s"),
             verticalDivider(),
             Text("Degree: " + wind.deg.toString()),
           ],
