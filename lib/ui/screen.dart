@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:weather_app/bloc/weather_bloc.dart';
 import 'package:weather_app/model/response.dart';
 import 'package:weather_app/widget/widget_coordinate.dart';
-import 'package:weather_app/widget/widget_divider.dart';
 import 'package:weather_app/widget/widget_main.dart';
 import 'package:weather_app/widget/widget_sys.dart';
 import 'package:weather_app/widget/widget_wind.dart';
